@@ -1,0 +1,21 @@
+a {
+    color:black;
+    font-size: 250%;
+    font-style: bold;
+    text-decoration: none;
+    background-color: white;
+}
+
+a:hover {
+    color: green;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+}
